@@ -4,7 +4,7 @@ body{
 }
 
 .contenedor{
-    background-color: aquamarine;
+    background-color: rgb(127, 163, 197);
     position: relative;
     text-align: center;
 }
@@ -23,4 +23,8 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
     text-transform: uppercase;
+}
+
+.container{
+    background-color: wheat;
 }
